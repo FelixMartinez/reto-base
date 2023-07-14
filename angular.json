@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "reto-base"
+  "defaultProject": "reto-base",
+  "cli": {
+    "analytics": false
+  }
 }
